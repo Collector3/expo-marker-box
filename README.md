@@ -1,9 +1,11 @@
-Expo Marker Box
+# Expo Marker Box
 
 A box for holding Expo Markers (thin, pen/pencil style) 86601. This attaches to
 a whiteboard with either suction cups, or a magnetic badge holder.
 
-# Bill of Materials
+![Ze Marker Box](marker_box.jpg)
+
+### Bill of Materials
 
 [Expo Markers 86601](https://www.amazon.com/Low-Odor-Markers-Assorted-Colors-8-Count/dp/B000Z88D2E)
 
